@@ -17,3 +17,6 @@ Consumi API do Graphcms é muito mais.
 #Resultado
 
 ![capa-github](https://user-images.githubusercontent.com/105730551/176934264-aa256f36-7af8-42ad-ad2a-a51975a01ea9.png)
+
+Adicionei reponsividade
+![capa-gitgub-cel](https://user-images.githubusercontent.com/105730551/176938947-249b95de-5509-4e8d-8ba9-c575541a86f9.png)
