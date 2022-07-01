@@ -1,7 +1,7 @@
 # Ignite-lab
 Participei do evento Ignite Lab foi uma semana muito intensa de muito conhecimento. <br>
 Fico muito feliz por ter praticipado, aprendi variar tecnologias novas como Apollo, Tailwindcss, Typescript, React-router-dom ... <br>
-Consumi API do Graphcms é muito mais.
+Desenvolvemos a plataforma que aconteceu o evento,consumindo API do Graphcms é muito mais.
 
 
 #Principais Tecnologias 
